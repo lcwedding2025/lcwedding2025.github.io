@@ -20,7 +20,10 @@ author: Lorna and Cameron Gellatly
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Wedding Information: "information"
+
+  Recommended Accommodation: "accommodation"
+  
   Resources:
     - Beautiful Jekyll: #Placeholder URL to subdomain / page
     - Learn markdown: #Placeholder URL to subdomain / page
