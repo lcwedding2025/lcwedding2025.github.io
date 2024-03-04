@@ -25,10 +25,6 @@ navbar-links:
   Accommodation: 
     - Hotels: "hotels"
     - Resorts: "resorts"
-  
-  Resources:
-    - Beautiful Jekyll: #Placeholder URL to subdomain / page
-    - Learn markdown: #Placeholder URL to subdomain / page
 
 
 ################
