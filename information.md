@@ -1,9 +1,6 @@
 ---
 layout: page
 title: The Wedding Day
-subtitle: General Information
+subtitle: What to expect.
 ---
-
-Testing to see if this updates
-
 ### Test

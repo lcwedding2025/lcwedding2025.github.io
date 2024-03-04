@@ -12,4 +12,3 @@ subtitle: Hotels nearby the venue.
 ### - Pool
 ### - Gym
 ### - Onsite Restaurant
-
