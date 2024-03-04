@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Accommodation Recommendations
-subtitle: Accommodation nearby the venue.
+title: Hotels
+subtitle: Hotels nearby the venue.
 ---
 
-Testing
+# Hilton Garden Inn
+## 4 Jetty Wy, Busselton WA 6280
+### - 8 Min drive from venue
+### - Nearby Busselton Jetty + Town Center.
+### - 4 Stars
+### - Pool
+### - Gym
+### - Onsite Restaurant
+
